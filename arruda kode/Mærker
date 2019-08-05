@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="mærkerstyle.css">
+    <link href="https://fonts.googleapis.com/css?family=Palanquin+Dark:700" rel="stylesheet">
+    <title> A R R U D A </title>
+  </head>
+
+
+
+  <body>
+    <!-- KURV -->
+<img class="kurv" src="shopping-bag-solid.svg" width="70" align="right"/>
+<h1>A R R U D A </h1>
+
+      <!-- MENU-->
+    <div class="btn-group" style="width:100%">
+      <a href="Nyheder"><button style="width:33.3%">NYHEDER</button></a>
+      <a href="#"><button style="width:33.3%">SHOP</button></a>
+    <a href="#">  <button style="width:33.3%">MÆRKER</button></a>
+    </div>
+
+<!-- FILTERKNAPPEN-->
+    <div class="filterknap" style="width:100%">
+      <button style="width:100%">Filtrer</button>
+    </div>
+
+<!-- TARA BLUSE BILLED-->
+<div class="pic" style="text-align:center"><img src="sharon-garcia-417666-unsplash.jpeg" width="800" />
+</div>
+
+<!-- TEXTBOX-->
+<div id="textbox">
+  <p class="alignleft">Tara Bluse</p>
+  <p class="alignright">299,-</p>
+</div>
+<div style="clear: both;"></div>
+
+  </body>
+</html>
